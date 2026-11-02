@@ -1,0 +1,15 @@
+Nama Kolom,Tipe Data,Jumlah Missing,Jumlah Unik
+transaction_id,object,0,8840
+user_id,object,76,2845
+product_id,object,0,500
+kategori_produk,object,0,10
+nama_produk,object,0,100
+harga_idr,float64,0,8834
+kuantitas,int64,0,5
+diskon_pct,int64,0,7
+rating_pembeli,float64,0,41
+sentimen_ulasan,object,0,3
+tanggal_pembelian,datetime64[ns],0,1096
+metode_pembayaran,object,0,4
+kota_pembeli,object,0,11
+status_retur,object,0,2
